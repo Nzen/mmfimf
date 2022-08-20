@@ -25,5 +25,5 @@ jobs:
         uses: gradle/gradle-build-action@v2
         with:
           arguments: clean build
-          build-root-directory: sdk/java
+          build-root-directory: .
 
