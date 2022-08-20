@@ -1,6 +1,9 @@
 ---
 name: SDK-java
 
+on:
+  pull_request
+
 jobs:
   gradle:
     name: Java sdk
