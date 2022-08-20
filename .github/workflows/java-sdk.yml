@@ -2,7 +2,7 @@
 name: SDK-java
 
 on:
-  pull_request
+  workflow_dispatch
 
 jobs:
   gradle:
