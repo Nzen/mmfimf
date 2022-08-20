@@ -1,0 +1,9 @@
+
+mmfimf
+
+Copyright Nicholas Prado, released under terms of the universal permissive license v1.0, as reproduced in universal-permissive-v1.0.txt in this repository, and as contemporarily accessible at https://www.oracle.com/downloads/licenses/upl-license.html . The universal permissive license is copyright Oracle .
+
+mmfimf relies on  
+* gradle, which is released under Apache license v2.0 terms.
+* grpc example, which is released under Apache license v2.0 terms.
+
