@@ -1,0 +1,66 @@
+
+= mendacious mascarpone fimf
+
+== Purpose
+
+mmfimf is an exercise in understanding github's action configuration
+
+== License
+
+mmfimf is released under the terms of the universal permissive license.
+
+== Run
+
+Use a github action
+
+== Name
+
+fimf is the latinized name of numeral 5, in the gothic language.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
