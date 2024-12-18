@@ -3,7 +3,7 @@
 
 == Purpose
 
-mmfimf is an exercise in understanding github's action configuration
+mmfimf is an exercise in understanding github's action configuration.
 
 == License
 
